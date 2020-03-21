@@ -24,7 +24,7 @@ export default () => {
   return (
     <StoryWithScrollIssue style={{ overflow: 'hidden', position: 'relative', padding: '8px' }}>
       <Block justifyContent="flex-start">
-        <Text.Title>Hello Story. I am about to state smthing. That matters. For real.</Text.Title>
+        <Text.Title>I am about to tell you a lorem ipsum story.</Text.Title>
         <Video
           {...player}
           global
